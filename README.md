@@ -5,6 +5,8 @@ This is the directory of my project as the final milestone for completing my bac
 
 Today, refugees at the Mtendeli camp, Tanzania, fetch water manually from a tap stand to their camps to use for the next day or two. However, it is at times extremely challenging to assess whether the water is still safe to consume due to varying climate conditions every day and many opportunities of contamination in an often-unsanitary refugee camp environment. Well-known first- or second-order decay models have failed in producing consistently accurate predictions. This project first conducts an in-depth data analysis and takes a machine learning approach to predict future water quality to address these key issues.
 
+For complete and detailed results, please refer to `Report.pdf`. For a brief overview, refer to `Presentation.pdf`.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -13,27 +15,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 The required environment for running the code and reproducing the results is a computer with a valid installation of MATLAB. More specifically, [MATLAB 2018a](https://www.mathworks.com/help/distcomp/release-notes-R2018a.html) is used.
 
-Besides that (and the built-in Python libraries), the following packages are used and have to be installed:
-
-* [NumPy 1.13.3](http://www.numpy.org). `pip3 install --user numpy==1.13.3`
-* [Matplotlib 2.0.2](https://matplotlib.org). `pip3 install --user matplotlib==2.0.2`
-* [Networkx 2.2](https://networkx.github.io)    `pip install --user networkx==2.2`
-* [Pandas 0.23.4](https://pandas.pydata.org)    `pip install --user pandas==0.23.4`
-* [PyGSP 0.5.1](https://pygsp.readthedocs.io/en/stable/) `pip install --user pygsp==0.5.1`
-* [TQDM 4.28.1](https://github.com/tqdm/tqdm)    `pip install --user tqdm==4.28.1`
-
-### Installing
-
-To install the previously mentioned libraries a requirements.txt file is provided. The user is free to use it for installing the previously mentioned libraries.  
-
-
 ## Project Structure
 
 The project has the following folder (and file) structure:
 
 * `data/`. Directory containing original dataset from LINQS. [online] Linqs.soe.ucsc.edu. Available at: https://linqs.soe.ucsc.edu/node/236 [Accessed 11 Jan. 2019].
 
-* `project/`. Folder containing the actual code files for the project:
+* `matlab/`. Folder containing the actual code files for the project:
     * `gephi/` Folder containing gephi files for visualization and exploration of the network.
     * `images/` Folder containing different images that are generated when running the different notebooks.
     * `fragmentation measures.py` Contains functions to compute fragmentation measures on the provided network.
