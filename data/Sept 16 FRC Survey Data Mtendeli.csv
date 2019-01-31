@@ -1,0 +1,159 @@
+Sample Number,Date event 1,Tap Stand ID,Time event 1,FRC (mg/l),TRC (mg/l),Temp (Cent) ,Container,Cont.Colour,Cont.Opacity,Cont.Covered,Cont.Clean,HH Ident,Same Cont.,Same Water,How full (%),Method Drawing,Cont.type,Cont.colour,Cont.opacity,Cont.covered,Cont.Clean,Cont.outside,Date event 2,Time vent 2,FRC (mg/l),TRC (mg/l),Temp (Cent),Time Substract,Time Elapsed,FRC (Tap-HH),TRC (Tap-HH)
+1,05-Sep-16,54,9:40,0.65,0.64,28,Jerry Can,White,Translucent,Yes,Yes,2E/EXT/5002,Yes,Yes,10,Pour  out,Jerry Can,White,Translucent,Yes,Yes,Yes,06-Sep-16,8:30,0.1,0.11,30,22:50:00,22.83,0.55,0.53
+2,05-Sep-16,54,10:00,0.69,0.68,28,Bucket,Green,Opaque,No,Yes,3Q/1/006,Yes,Yes,60,Dip Glass,Bucket,Green,Opaque,No,Yes,No,06-Sep-16,8:45,0.14,0.17,30,22:45:00,22.75,0.55,0.51
+3,05-Sep-16,54,10:25,0.68,0.69,28,Bucket,White,Opaque,Yes,No,4B/ET/004,Yes,Yes,15,Dip Glass,Bucket,White,Opaque,No,No,No,06-Sep-16,9:00,0.09,0.14,30,22:35:00,22.58,0.59,0.55
+4,05-Sep-16,40,10:59,0.6,0.62,28,Jerry Can,White,Translucent,Yes,No,4C/8/007,Yes,Yes,19,Pour  out,Jerry Can,White,Translucent,Yes,No,Yes,06-Sep-16,9:15,0.48,0.53,30,22:16:00,22.27,0.12,0.09
+5,05-Sep-16,40,11:40,0.6,0.73,28,Jerry Can,White,Translucent,No,No,3P/6/006,No,No,80,Dip Glass,Others,Blue,Opaque,No,No,No,06-Sep-16,9:30,0.14,0.21,30,21:50:00,21.83,0.46,0.52
+6,05-Sep-16,40,15:30,0.69,0.78,28,Jerry Can,White,Translucent,No,No,5B/4/002,Yes,Yes,98,Pour  out,Jerry Can,White,Translucent,No,No,No,06-Sep-16,9:48,0.63,0.65,30,18:18:00,18.3,0.06,0.13
+7,05-Sep-16,18,16:20,0.61,0.77,28,Bucket,White,Opaque,No,No,5D/1/007,Yes,Yes,18,Dip Glass,Bucket,White,Opaque,No,No,No,06-Sep-16,17:30,0.01,0.07,30,1:10:00,25.17,0.6,0.7
+8,06-Sep-16,18,10:08,0.61,0.68,30,Bucket,Blue,Opaque,No,Yes,5D/3/008,Yes,Yes,15,Dip Glass,Bucket,Blue,Opaque,No,Yes,No,07-Sep-16,10:57,0.32,0.43,29,0:49:00,24.82,0.29,0.25
+9,06-Sep-16,18,10:20,0.61,0.66,30,Bucket,Blue,Opaque,No,Yes,5C/2/003,No,Yes,50,Pour  out,Jerry Can,Yellow,Opaque,No,No,No,07-Sep-16,10:40,0.44,0.57,29,0:20:00,24.33,0.17,0.09
+10,06-Sep-16,17,10:40,0.6,0.63,30,Bucket,Blue,Opaque,Yes,No,,No,No,25,Dip Glass,Bucket,Blue,Opaque,Yes,No,No,07-Sep-16,11:35,0.01,0.01,29,0:55:00,24.92,0.59,0.62
+11,06-Sep-16,17,10:50,0.6,0.63,30,Jerry Can,Green,Opaque,Yes,No,4O/7/004,Yes,Yes,15,Pour  out,Jerry Can,Green,Opaque,Yes,No,No,07-Sep-16,11:00,0.55,0.58,29,0:10:00,24.17,0.05,0.05
+12,06-Sep-16,17,11:30,0.67,0.65,30,Bucket,Blue,Opaque,Yes,No,4N/4/001,No,No,5,Pour  out,Others,Blue,Opaque,No,No,No,07-Sep-16,11:00,0.01,0.23,29,23:30:00,23.5,0.66,0.42
+13,06-Sep-16,42,16:59,0.65,0.69,30,Bucket,White,Opaque,Yes,Yes,,Yes,Yes,100,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,07-Sep-16,10:00,0.6,0.62,29,17:01:00,17.02,0.05,0.07
+14,06-Sep-16,42,16:09,0.65,0.67,30,Jerry Can,yellow,Opaque,No,No,,Yes,Yes,15,Pour  out,Jerry Can,Yellow,Opaque,No,No,No,07-Sep-16,10:00,0.47,0.49,29,17:51:00,17.85,0.18,0.18
+15,06-Sep-16,42,16:40,0.65,0.68,30,Bucket,Blue,Opaque,No,No,,Yes,Yes,100,Dip Glass,Bucket,Blue,Opaque,No,No,No,07-Sep-16,10:25,0.36,0.46,29,17:45:00,17.75,0.29,0.22
+16,06-Sep-16,53,14:30,0.52,1,30,Bucket,White,Opaque,No,No,,Yes,No,20,Pour  out,Bucket,White,Opaque,No,No,No,07-Sep-16,9:00,0.6,0.7,29,18:30:00,18.5,-0.08,0.3
+17,06-Sep-16,53,15:00,0.52,0.58,30,Bucket,White,Opaque,Yes,No,,Yes,Yes,100,Dip Glass,Bucket,White,Opaque,No,No,No,07-Sep-16,9:15,0.46,0.5,29,18:15:00,18.25,0.06,0.08
+18,06-Sep-16,53,15:39,0.6,0.62,30,Jerry Can,White,Translucent,No,No,,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,No,No,No,07-Sep-16,8:40,0.58,0.59,29,17:01:00,17.02,0.02,0.03
+19,07-Sep-16,30,16:06,0.55,0.76,29,Jerry Can,White,Translucent,No,Yes,2L/5/004,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,No,Yes,No,08-Sep-16,9:59,0.46,0.53,30,17:53:00,17.88,0.09,0.23
+20,07-Sep-16,30,16:18,0.5,0.7,29,Jerry Can,White,Translucent,No,No,2G/3/004,Yes,Yes,27,Pour  out,Jerry Can,White,Translucent,No,No,No,08-Sep-16,10:08,0.44,0.46,30,17:50:00,17.83,0.06,0.24
+21,07-Sep-16,30,16:25,0.51,0.69,29,Bucket,Blue,Opaque,Yes,No,2F/3/004,No,Yes,50,Dip Glass,Bucket,White,Opaque,No,Yes,No,08-Sep-16,10:23,0.14,0.15,30,17:58:00,17.97,0.37,0.54
+22,07-Sep-16,31,15:42,0.51,0.79,29,Jerry Can,White,Translucent,Yes,Yes,28/2/0011,Yes,Yes,10,Pour  out,Jerry Can,White,Opaque,Yes,Yes,No,08-Sep-16,9:43,0.33,0.34,30,18:01:00,18.02,0.18,0.45
+23,07-Sep-16,31,15:54,0.5,0.78,29,Jerry Can,White,Translucent,Yes,Yes,2DEXT/4/002,Yes,Yes,15,Pour  out,Jerry Can,White,Translucent,No,Yes,No,08-Sep-16,9:05,0.44,0.5,30,17:11:00,17.18,0.06,0.28
+24,07-Sep-16,31,15:22,0.52,0.82,29,Jerry Can,White,Translucent,Yes,No,28/S/006,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,Yes,No,No,08-Sep-16,9:29,0.51,0.56,30,18:07:00,18.12,0.01,0.26
+25,07-Sep-16,29,17:00,0.53,0.55,29,Jerry Can,White,Translucent,Yes,No,3A/5/006,Yes,Yes,25,Pour  out,Jerry Can,White,Translucent,No,No,No,08-Sep-16,9:14,0.38,0.64,30,16:14:00,16.23,0.15,-0.09
+26,07-Sep-16,29,16:26,0.54,0.59,29,Jerry Can,White,Translucent,No,Yes,3A/3/006,Yes,Yes,20,Pour  out,Jerry Can,White,Translucent,No,No,No,08-Sep-16,9:35,0.06,0.07,30,17:09:00,17.15,0.48,0.52
+27,07-Sep-16,29,16:40,0.54,0.56,29,Jerry Can,White,Translucent,Yes,Yes,3A/3/007,Yes,Yes,19,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,08-Sep-16,9:43,0.44,0.47,30,17:03:00,17.05,0.1,0.09
+28,07-Sep-16,28,15:30,0.48,0.53,29,Jerry Can,yellow,Opaque,No,No,3B/3/001,Yes,Yes,10,Pour  out,Jerry Can,Yellow,Opaque,No,No,No,08-Sep-16,10:05,0.43,0.44,30,18:35:00,18.58,0.05,0.09
+29,07-Sep-16,30,15:15,0.45,0.47,29,Bucket,Green,Opaque,Yes,Yes,,Yes,Yes,50,Dip Glass,Bucket,Green,Opaque,Yes,Yes,No,08-Sep-16,17:10,0.06,0.11,30,1:55:00,25.92,0.39,0.36
+30,07-Sep-16,27,16:40,0.47,0.47,29,Jerry Can,White,Translucent,Yes,Yes,3N/1/007,Yes,Yes,17,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,08-Sep-16,10:40,0.37,0.4,30,18:00:00,18,0.1,0.07
+31,07-Sep-16,27,16:52,0.46,0.48,29,Bucket,Blue,Opaque,Yes,No,ET/3N/1/005,Yes,Yes,15,Dip Glass,Bucket,Blue,Opaque,Yes,No,No,08-Sep-16,11:25,0.1,0.05,30,18:33:00,18.55,0.36,0.43
+32,07-Sep-16,28,16:01,0.56,0.62,29,Bucket,Red,Opaque,Yes,Yes,3B/3/006,No,Yes,10,Pour  out,Jerry Can,White,Translucent,No,Yes,No,08-Sep-16,9:58,0.01,0.02,30,17:57:00,17.95,0.55,0.6
+33,07-Sep-16,28,16:09,0.53,0.6,29,Jerry Can,White,Translucent,Yes,Yes,3B/6/003,Yes,Yes,100,Pour  out,Jerry Can,,,,,,08-Sep-16,10:12,0.44,0.45,30,18:03:00,18.05,0.09,0.15
+34,08-Sep-16,79,11:40,0.9,0.99,30,Jerry Can,White,Translucent,No,No,6E/6/006,No,Yes,10,Pour  out,Others,White,Translucent,Yes,Yes,No,09-Sep-16,10:00,0.2,0.22,30,22:20:00,22.33,0.7,0.77
+35,08-Sep-16,78,15:00,0.68,0.71,30,Bucket,Blue,Opaque,No,m,1E/5/001,No,Yes,15,Dip Glass,Bucket,Blue,Opaque,Yes,Yes,No,09-Sep-16,9:27,0.28,0.3,30,18:27:00,18.45,0.4,0.41
+36,08-Sep-16,78,15:10,0.66,0.71,30,Jerry Can,White,Translucent,Yes,Yes,6O/8/003,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,09-Sep-16,9:46,0.41,0.43,30,18:36:00,18.6,0.25,0.28
+37,08-Sep-16,78,15:25,0.62,0.68,30,Bucket,Blue,Opaque,No,No,6N/4/008,,,100,,,,,,,,09-Sep-16,11:20,0.47,0.49,30,19:55:00,19.92,0.15,0.19
+38,08-Sep-16,95,15:48,0.62,0.68,30,Jerry Can,yellow,Opaque,No,No,3O/1/004,Yes,Yes,10,Pour  out,Jerry Can,Yellow,Opaque,No,No,No,09-Sep-16,10:44,0.49,0.5,30,18:56:00,18.93,0.13,0.18
+39,08-Sep-16,95,16:06,0.62,0.68,30,Bucket,White,Opaque,Yes,Yes,,Yes,Yes,75,Dip Glass,Bucket,White,Opaque,Yes,Yes,Yes,09-Sep-16,17:00,0.3,0.3,30,0:54:00,24.9,0.32,0.38
+40,08-Sep-16,95,16:44,0.62,0.6,30,Bucket,White,Opaque,Yes,No,6J/3/006,Yes,Yes,50,Dip Glass,Bucket,White,Opaque,Yes,No,No,09-Sep-16,17:10,0.44,0.45,30,0:26:00,24.43,0.18,0.15
+41,08-Sep-16,99,17:15,0.91,0.94,30,Jerry Can,White,Translucent,No,No,ET/8B/001,Yes,Yes,20,Pour  out,Jerry Can,White,Translucent,No,No,No,09-Sep-16,10:25,0.35,0.37,30,17:10:00,17.17,0.56,0.57
+42,08-Sep-16,99,17:23,0.9,0.94,30,Jerry Can,White,Translucent,No,No,8B/2/006,No,Yes,5,,Jerry Can,White,Opaque,No,Yes,No,09-Sep-16,10:10,0.3,0.32,30,16:47:00,16.78,0.6,0.62
+43,08-Sep-16,99,17:00,0.91,0.94,30,Bucket,White,Opaque,Yes,No,ET/8B/1/001,Yes,Yes,90,Dip Glass,Bucket,White,Opaque,Yes,No,No,09-Sep-16,10:00,0.6,0.62,30,17:00:00,17,0.31,0.32
+44,09-Sep-16,77,11:30,0.8,0.82,30,Jerry Can,White,Translucent,Yes,No,6N/1/001,Yes,Yes,5,Pour  out,Jerry Can,White,Translucent,Yes,No,No,10-Sep-16,8:47,0.6,0.65,30,21:17:00,21.28,0.2,0.17
+45,09-Sep-16,77,11:40,0.8,0.83,30,Jerry Can,White,Translucent,Yes,Yes,6N/4/004,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,10-Sep-16,9:00,0.5,0.52,30,21:20:00,21.33,0.3,0.31
+46,09-Sep-16,77,11:55,0.79,0.81,30,Jerry Can,White,Translucent,No,Yes,6N/8/002,No,No,10,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,10-Sep-16,9:15,0.23,0.26,30,21:20:00,21.33,0.56,0.55
+47,09-Sep-16,80,15:20,1,1.2,30,Bucket,White,Opaque,Yes,No,6P/2/001,No,Yes,60,Dip Glass,Bucket,Blue,Opaque,Yes,No,No,10-Sep-16,10:09,0.75,3.8,30,18:49:00,18.82,0.25,-2.6
+48,09-Sep-16,80,15:46,0.9,1.1,30,Jerry Can,White,Translucent,Yes,No,6F/1/003,No,Yes,90,Pour  out,Others,White,Translucent,No,No,No,10-Sep-16,9:48,0.48,0.5,30,18:02:00,18.03,0.42,0.6
+49,09-Sep-16,80,16:06,1,1.2,30,Bucket,White,Opaque,No,No,,No,Yes,90,Pour  out,Jerry Can,White,Translucent,No,No,No,10-Sep-16,9:35,0.78,0.8,30,17:29:00,17.48,0.22,0.4
+50,09-Sep-16,83,16:56,1,1.1,30,Bucket,White,Opaque,Yes,No,6Q/6/004,Yes,Yes,50,Dip Glass,Bucket,White,Opaque,Yes,,No,10-Sep-16,11:00,0.6,0.62,30,18:04:00,18.07,0.4,0.48
+51,09-Sep-16,83,17:00,1,1.3,30,Jerry Can,White,Translucent,Yes,No,6S/7/008,Yes,Yes,90,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,10-Sep-16,10:40,0.88,1,30,17:40:00,17.67,0.12,0.3
+52,09-Sep-16,83,17:15,1,1.2,30,Jerry Can,White,Translucent,No,No,6G/5/003,Yes,Yes,25,Pour  out,Jerry Can,White,Translucent,No,No,No,10-Sep-16,10:52,0.82,0.84,30,17:37:00,17.62,0.18,0.36
+53,10-Sep-16,92,11:17,1.11,1.14,30,Bucket,White,Opaque,Yes,Yes,8I/5/005,Yes,No,90,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,11-Sep-16,10:41,1.05,1.05,29,23:24:00,23.4,0.06,0.09
+54,10-Sep-16,92,11:35,1.11,1.14,30,Jerry Can,White,Translucent,Yes,Yes,8O/2/001,Yes,Yes,20,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,11-Sep-16,11:05,0.63,0.65,29,23:30:00,23.5,0.48,0.49
+55,10-Sep-16,92,12:03,1.04,1.1,30,Bucket,yellow,Opaque,Yes,No,8O/6/001,Yes,Yes,50,Dip Glass,Bucket,Yellow,Opaque,Yes,No,No,11-Sep-16,11:25,0.04,0.08,29,23:22:00,23.37,1,1.02
+56,10-Sep-16,111,15:11,0.81,1,30,Jerry Can,White,Translucent,Yes,No,,Yes,Yes,90,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,11-Sep-16,9:30,0.91,0.92,29,18:19:00,18.32,-0.1,0.08
+57,10-Sep-16,111,15:55,0.8,1,30,Bucket,White,Opaque,Yes,Yes,ET/7C/6/005,Yes,Yes,75,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,11-Sep-16,8:30,0.73,0.75,29,16:35:00,16.58,0.07,0.25
+58,10-Sep-16,111,9:30,0.8,1,30,Jerry Can,White,Translucent,No,No,ET/7C/6/006,No,No,98,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,11-Sep-16,8:50,0.73,0.75,29,23:20:00,23.33,0.07,0.25
+59,10-Sep-16,108,16:55,1,1.2,30,Bucket,Red,Opaque,Yes,No,9H/3/002,Yes,Yes,50,Dip Glass,Bucket,Red,Opaque,Yes,No,No,11-Sep-16,10:10,0.6,0.62,29,17:15:00,17.25,0.4,0.58
+60,10-Sep-16,108,16:40,1,1.1,30,Bucket,White,Opaque,Yes,No,ET/9D/4/003,Yes,No,10,Pour  out,Jerry Can,Yellow,Opaque,Yes,No,No,11-Sep-16,9:40,0.09,0.11,29,17:00:00,17,0.91,0.99
+61,10-Sep-16,108,11:05,1,1.2,30,Bucket,Red,Opaque,Yes,Yes,9O/4/003,Yes,Yes,75,Dip Glass,Bucket,Red,Opaque,Yes,Yes,No,11-Sep-16,10:30,0.52,0.7,29,23:25:00,23.42,0.48,0.5
+62,13-Sep-16,1,9:02,0.75,0.77,28,Jerry Can,yellow,Opaque,Yes,Yes,2ETP/3/007,Yes,Yes,34,Pour  out,Jerry Can,Yellow,Opaque,Yes,Yes,No,14-Sep-16,9:40,0.4,0.43,31,0:38:00,24.63,0.35,0.34
+63,13-Sep-16,1,9:21,0.75,0.78,28,Jerry Can,White,Translucent,Yes,No,11ETP/2/004,Yes,No,50,Pour  out,Jerry Can,White,Translucent,No,Yes,No,14-Sep-16,9:00,0.01,0.03,31,23:39:00,23.65,0.74,0.75
+64,13-Sep-16,1,9:34,0.73,0.75,28,Bucket,White,Opaque,Yes,No,2ETP/3/006,Yes,Yes,15,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,14-Sep-16,9:27,0.01,0.03,31,23:53:00,23.88,0.72,0.72
+65,13-Sep-16,2,10:04,0.76,0.79,28,Bucket,Pink,Opaque,Yes,Yes,5ETP/3/003,Yes,Yes,100,Dip Glass,,Pink,Opaque,Yes,Yes,No,14-Sep-16,10:10,0.27,0.3,31,0:06:00,24.1,0.49,0.49
+66,13-Sep-16,2,10:23,0.75,0.77,28,Jerry Can,White,Translucent,Yes,No,4ETP/6/001,Yes,Yes,10,Pour  out,Jerry Can,White,Translucent,No,No,No,14-Sep-16,10:00,0.01,0.04,31,23:37:00,23.62,0.74,0.73
+67,13-Sep-16,2,10:43,0.76,0.79,28,Jerry Can,White,Translucent,Yes,Yes,,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,14-Sep-16,9:50,0.64,0.66,31,23:07:00,23.12,0.12,0.13
+68,13-Sep-16,3,11:00,0.73,0.76,28,Bucket,Red,Opaque,Yes,Yes,6ETP/1/004,Yes,Yes,100,Dip Glass,Bucket,Red,Opaque,Yes,Yes,No,14-Sep-16,10:40,0.08,0.09,31,23:40:00,23.67,0.65,0.67
+69,13-Sep-16,3,11:15,0.73,0.75,28,Jerry Can,White,Translucent,Yes,No,5ETP/7/008,No,Yes,10,Pour  out,Others,White,Translucent,Yes,Yes,No,14-Sep-16,10:25,0.25,0.27,31,23:10:00,23.17,0.48,0.48
+70,13-Sep-15,3,11:25,0.73,0.74,28,Jerry Can,yellow,Opaque,No,Yes,6ETP/02/007,Yes,Yes,100,Pour  out,Jerry Can,Yellow,Opaque,No,Yes,No,14-Sep-16,10:50,0.4,0.41,31,23:25:00,23.42,0.33,0.33
+71,13-Sep-16,4,11:35,0.76,0.78,28,Jerry Can,White,Translucent,No,No,9ETP/4/005,Yes,Yes,15,Pour  out,Jerry Can,White,Opaque,No,No,No,14-Sep-16,10:55,0.37,0.39,31,23:20:00,23.33,0.39,0.39
+72,13-Sep-16,4,11:45,0.76,0.78,28,Jerry Can,White,Translucent,Yes,No,7ETP/7/007,Yes,Yes,100,Pour  out,Jerry Can,White,Translucent,Yes,Yes,No,14-Sep-16,11:09,0.4,0.41,31,23:24:00,23.4,0.36,0.37
+73,13-Sep-16,4,11:57,0.76,0.79,28,Bucket,White,Opaque,Yes,Yes,8ETP/8/004,Yes,Yes,50,Dip Glass,Bucket,White,Opaque,No,No,No,14-Sep-16,11:34,0.14,0.16,31,23:37:00,23.62,0.62,0.63
+74,13-Sep-16,11A,17:00,0.8,0.83,28,Bucket,Blue,Opaque,Yes,No,23ETP/7/008,Yes,Yes,40,Dip Glass,Bucket,Blue,Opaque,Yes,Yes,Yes,14-Sep-16,12:25,0.15,0.17,31,19:25:00,19.42,0.65,0.66
+75,13-Sep-16,11A,17:07,0.8,0.83,28,Jerry Can,White,Translucent,No,No,23ETP/7/008,Yes,Yes,50,Dip Glass,Bucket,White,Translucent,No,No,No,14-Sep-16,12:04,0.01,0.02,31,18:57:00,18.95,0.79,0.81
+76,13-Sep-16,11A,17:15,0.81,0.83,28,Jerry Can,White,Translucent,Yes,Yes,23ETP/1/002,No,No,40,Pour  out,Jerry Can,Yellow,Opaque,Yes,Yes,No,14-Sep-16,11:40,0.62,0.64,31,18:25:00,18.42,0.19,0.19
+77,13-Sep-16,11B,16:00,0.77,0.79,28,Jerry Can,White,Translucent,Yes,No,,Yes,Yes,50,Pour  out,Jerry Can,White,Translucent,Yes,No,No,14-Sep-16,13:00,0.5,0.53,31,21:00:00,21,0.27,0.26
+78,13-Sep-16,11B,16:20,0.76,0.78,28,Bucket,White,Opaque,Yes,No,,Yes,Yes,100,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,14-Sep-16,12:44,0.44,0.48,31,20:24:00,20.4,0.32,0.3
+79,13-Sep-16,11B,16:50,0.75,0.76,28,Bucket,Green,Opaque,Yes,No,,Yes,Yes,100,Dip Glass,Bucket,Green,Opaque,Yes,No,No,14-Sep-16,12:35,0.01,0.02,31,19:45:00,19.75,0.74,0.74
+80,14-Sep-16,10,16:15,0.6,0.66,31,Jerry Can,White,Translucent,Yes,Yes,28ETP/1/006,No,Yes,50,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,15-Sep-16,8:30,0.34,0.36,30,16:15:00,16.25,0.26,0.3
+81,14-Sep-16,10,15:15,0.65,0.73,31,Bucket,Blue,Opaque,Yes,Yes,26ETP/P/1/006,Yes,Yes,90,Dip Glass,Bucket,Blue,Opaque,Yes,Yes,No,15-Sep-16,9:30,0.6,0.62,30,18:15:00,18.25,0.05,0.11
+82,14-Sep-16,10,15:30,0.63,0.69,31,Jerry Can,White,Opaque,No,No,23ETP/1/006,Yes,Yes,20,Pour  out,Jerry Can,White,Opaque,No,No,No,15-Sep-16,10:30,0.57,0.59,30,19:00:00,19,0.06,0.1
+83,14-Sep-16,46,16:56,0.69,0.71,31,Jerry Can,White,Translucent,No,No,2N/6/002,Yes,Yes,10,Pour  out,Jerry Can,White,Translucent,No,No,No,15-Sep-16,9:00,0.1,0.11,30,16:04:00,16.07,0.59,0.6
+1,05-Sep-16,103,9:49,0.42,0.45,28,Jerry can,White,Translucent,Yes,No,8A/8/003,No,Yes,10,Pour out,Other,White,Translucent,Yes,No,No,06-Sep-16,9:30,0.14,0.18,30,23:41:00,23.68333333,0.28,0.27
+2,05-Sep-16,103,10:18,0.42,0.46,28,Jerry can,White,Translucent,Yes,Yes,6L/6/006,Yes,Yes,80,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,06-Sep-16,9:07,0.4,0.42,30,22:49:00,22.81666667,0.02,0.04
+3,05-Sep-16,103,10:40,0.42,0.46,28,Jerry can,White,Translucent,Yes,Yes,ET/9D/2/001,Yes,Yes,100,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,06-Sep-16,9:45,0.21,0.26,30,23:05:00,23.08333333,0.21,0.2
+4,05-Sep-16,104,11:03,0.44,0.5,28,Bucket,White,Opaque,No,Yes,8L/8/002,Yes,Yes,40,Dip Glass,Bucket,White,Opaque,No,No,No,06-Sep-16,10:20,0.05,0.07,30,23:17:00,23.28333333,0.39,0.43
+5,05-Sep-16,104,15:00,0.33,0.83,28,Jerry can,White,Translucent,Yes,Yes,ET/9D/8/002,Yes,Yes,85,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,06-Sep-16,10:36,0.22,0.29,30,19:36:00,19.6,0.11,0.54
+6,05-Sep-16,104,16:05,0.07,0.09,28,Jerry can,White,Translucent,No,Yes,ET/9D/5/002,Yes,Yes,15,Pour out,Jerry Can,White,Translucent,No,Yes,No,06-Sep-16,9:58,0.19,0.2,30,17:53:00,17.88333333,-0.12,-0.11
+7,05-Sep-16,75,16:45,0.04,0.07,28,Jerry can,White,Translucent,Yes,Yes,6L/2/007,Yes,Yes,10,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,06-Sep-16,8:49,0.34,0.4,30,16:04:00,16.06666667,-0.3,-0.33
+8,06-Sep-16,107,11:15,0.45,0.51,30,Bucket,Yello,Opaque,No,No,7H/6/001,Yes,Yes,30,Dip Glass,Bucket,Yellow,Opaque,No,No,No,07-Sep-16,8:50,0.17,0.19,29,21:35:00,21.58333333,0.28,0.32
+9,06-Sep-16,107,11:32,0.44,0.48,30,Jerry can,Yello,Opaque,No,No,7H/6/006,Yes,Yes,50,Pour out,Jerry Can,Yellow,Opaque,No,No,No,07-Sep-16,8:30,0.08,0.13,29,20:58:00,20.96666667,0.36,0.35
+10,06-Sep-16,107,15:00,0.44,0.5,30,Jerry can,White,Translucent,Yes,Yes,7Z/2/004,Yes,Yes,10,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,07-Sep-16,9:24,0.21,0.25,29,18:24:00,18.4,0.23,0.25
+11,06-Sep-16,111,15:32,0.49,0.52,30,Bucket,Yello,Opaque,Yes,Yes,7Y/5/008,Yes,Yes,95,Pour out,Bucket,Yellow,Opaque,Yes,Yes,No,07-Sep-16,9:45,0.31,0.34,29,18:13:00,18.21666667,0.18,0.18
+12,06-Sep-16,111,15:52,0.48,0.55,30,Jerry can,White,Translucent,No,No,ET/7C/6/003,Yes,Yes,40,Pour out,Jerry Can,White,Translucent,No,Yes,No,07-Sep-16,9:39,0.45,0.46,29,17:47:00,17.78333333,0.03,0.09
+13,06-Sep-16,111,15:39,0.45,0.55,30,Jerry can,White,Translucent,Yes,No,7Y/2/006,Yes,Yes,90,Pour out,Jerry Can,White,Translucent,Yes,No,No,07-Sep-16,9:56,0.35,0.39,29,18:17:00,18.28333333,0.1,0.16
+14,06-Sep-16,73,16:10,0.49,0.51,30,Jerry can,White,Translucent,Yes,Yes,7N/3/007,Yes,Yes,95,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,07-Sep-16,10:33,0.42,0.48,29,18:23:00,18.38333333,0.07,0.03
+15,06-Sep-16,73,16:18,0.46,0.66,30,Jerry can,White,Translucent,Yes,Yes,ET/7C/004,Yes,No,95,Pour out,Bucket,White,Translucent,Yes,No,No,07-Sep-16,10:15,0.37,0.46,29,17:57:00,17.95,0.09,0.2
+16,06-Sep-16,73,16:32,0.49,0.59,30,Jerry can,White,Translucent,Yes,Yes,ET/7C/005,Yes,Yes,20,Pour out,Jerry Can,White,Translucent,No,No,No,07-Sep-16,10:25,0.31,0.35,29,17:53:00,17.88333333,0.18,0.24
+17,06-Sep-16,74,16:11,0.47,0.5,30,Jerry can,White,Translucent,Yes,No,ET/7D/6/002,Yes,Yes,95,Pour out,Jerry Can,White,Translucent,Yes,No,No,07-Sep-16,10:56,0.23,0.37,29,18:45:00,18.75,0.24,0.13
+18,06-Sep-16,74,16:59,0.36,0.48,30,Jerry can,White,Translucent,Yes,Yes,ET/7D/5/007,,,100,,,,,,,,07-Sep-16,10:01,0.34,0.4,29,17:02:00,17.03333333,0.02,0.08
+19,06-Sep-16,74,17:07,0.33,0.58,30,Bucket,Red,Opaque,Yes,Yes,7O/6/008,Yes,Yes,10,Dip Glass,Bucket,Red,Opaque,Yes,No,No,07-Sep-16,10:42,0.1,0.23,29,17:35:00,17.58333333,0.23,0.35
+20,06-Sep-16,76,17:15,0.32,0.5,30,Jerry can,Yello,Opaque,No,Yes,6A/5/003,Yes,Yes,90,Pour out,Jerry Can,Yellow,Opaque,No,Yes,No,07-Sep-16,11:07,0.21,0.27,29,17:52:00,17.86666667,0.11,0.23
+21,06-Sep-16,76,17:32,0.41,0.49,30,Bucket,Blue,Opaque,No,No,6M/2/008,Yes,No,98,Dip Glass,Bucket,Blue,Opaque,Yes,No,No,07-Sep-16,11:20,0.4,0.43,29,17:48:00,17.8,0.01,0.06
+22,08-Sep-16,38,15:55,0.44,0.67,30,Bucket,White,Opaque,Yes,Yes,7D/1/006,No,Yes,10,Pour out,Other,White,Translucent,No,No,No,09-Sep-16,11:16,0.03,0.1,30,19:21:00,19.35,0.41,0.57
+23,08-Sep-16,38,16:11,0.59,0.6,30,Jerry can,White,Translucent,No,No,7C/5/001,Yes,No,98,Dip Glass,Bucket,White,Opaque,Yes,No,No,09-Sep-16,11:26,0.04,0.04,30,19:15:00,19.25,0.55,0.56
+24,08-Sep-16,38,16:27,0.54,0.6,30,Jerry can,Yello,Opaque,Yes,Yes,2A/3/002,,,100,,,,,,,,09-Sep-16,17:20,0.4,0.51,30,0:53:00,24.88333333,0.14,0.09
+25,08-Sep-16,43,15:00,0.6,0.67,30,Bucket,Red,Opaque,Yes,Yes,2D/1/003,Yes,Yes,95,Dip Glass,Bucket,Red,Opaque,Yes,Yes,No,09-Sep-16,10:47,0.4,0.49,30,19:47:00,19.78333333,0.2,0.18
+26,08-Sep-16,43,11:50,0.56,0.68,30,Jerry can,White,Translucent,Yes,No,2C/8/003,Yes,Yes,98,Pour out,Jerry Can,White,Translucent,Yes,No,No,09-Sep-16,10:30,0.53,0.54,30,22:40:00,22.66666667,0.03,0.14
+27,08-Sep-16,43,11:28,0.51,0.66,30,Jerry can,White,Translucent,No,Yes,2D/1/002,Yes,No,90,Pour out,Jerry Can,White,Translucent,No,Yes,No,09-Sep-16,10:57,0.52,0.66,30,23:29:00,23.48333333,-0.01,0
+28,08-Sep-16,44,11:07,0.65,0.72,30,Bucket,White,Opaque,Yes,No,2B/EXT/1/006,Yes,Yes,95,Dip Glass,Bucket,White,Opaque,Yes,No,No,09-Sep-16,9:00,0.37,0.49,30,21:53:00,21.88333333,0.28,0.23
+29,08-Sep-16,44,10:26,0.58,0.6,30,Bucket,Red,Opaque,No,Yes,6B/1/006,Yes,Yes,15,Dip Glass,Bucket,Red,Opaque,No,Yes,No,09-Sep-16,10:07,0.03,0.04,30,23:41:00,23.68333333,0.55,0.56
+30,08-Sep-16,44,10:43,0.64,0.66,30,Bucket,White,Opaque,Yes,Yes,6D/1/001,Yes,Yes,60,Dip Glass,Bucket,White,Opaque,Yes,Yes,No,09-Sep-16,9:51,0.42,0.45,30,23:08:00,23.13333333,0.22,0.21
+31,08-Sep-16,72,16:52,0.78,0.84,30,Bucket,White,Opaque,Yes,Yes,7N/1/003,No,No,0,,Bucket,Blue,Opaque,No,No,Yes,09-Sep-16,11:40,0,0,30,18:48:00,18.8,0.78,0.84
+32,08-Sep-16,72,16:58,0.65,0.66,30,Jerry can,White,Translucent,Yes,Yes,7M/3/006,Yes,Yes,85,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,09-Sep-16,15:01,0.4,0.41,30,22:03:00,22.05,0.25,0.25
+33,08-Sep-16,72,17:05,0.64,0.67,30,Jerry can,Yello,Opaque,No,No,7M/3/008,Yes,Yes,25,Pour out,Jerry Can,Yellow,Opaque,No,No,No,09-Sep-16,11:42,0.07,0.14,30,18:37:00,18.61666667,0.57,0.53
+34,09-Sep-16,70,15:49,1.11,1.12,30,Bucket,Green,Translucent,No,No,7L/2/008,Yes,Yes,90,Dip Glass,Bucket,Green,Opaque,No,,No,10-Sep-16,9:03,0.8,0.84,30,17:14:00,17.23333333,0.31,0.28
+35,09-Sep-16,70,15:27,1.27,1.65,30,Bucket,White,Opaque,Yes,Yes,7T//1/005,Yes,Yes,7,Dip Glass,Bucket,White,Opaque,No,Yes,No,10-Sep-16,9:10,0.31,0.36,30,17:43:00,17.71666667,0.96,1.29
+36,09-Sep-16,70,15:56,1.19,1.3,30,Bucket,White,Opaque,Yes,No,7T/8/001,Yes,Yes,80,Dip Glass,Bucket,White,Opaque,Yes,No,No,10-Sep-16,9:26,0.94,0.94,30,17:30:00,17.5,0.25,0.36
+37,09-Sep-16,69,16:14,1.11,1.12,30,Bucket,Blue,Opaque,No,No,7T/6/004,Yes,Yes,60,Dip Glass,Bucket,Blue,Opaque,No,No,No,10-Sep-16,9:55,0.39,0.45,30,17:41:00,17.68333333,0.72,0.67
+38,09-Sep-16,69,16:28,1.11,1.72,30,Bucket,Red,Opaque,Yes,No,7T/6/002,Yes,Yes,30,Dip Glass,Bucket,Red,Opaque,Yes,No,Yes,10-Sep-16,9:41,0.1,0.14,30,17:13:00,17.51666667,1.01,1.58
+39,09-Sep-16,69,16:37,1.15,1.2,30,Bucket,Blue,Opaque,No,Yes,7T/2/002,No,No,18,Dip Glass,Bucket,Blue,Opaque,No,No,No,10-Sep-16,9:31,1.12,1.26,30,16:54:00,16.9,0.03,-0.06
+40,09-Sep-16,68,16:48,1.13,1.28,30,Bucket,White,Opaque,Yes,Yes,7V/5/001,Yes,Yes,100,Dip Glass,Bucket,,Opaque,Yes,Yes,No,10-Sep-16,10:12,0.93,0.91,30,17:24:00,17.4,0.2,0.37
+41,09-Sep-16,68,16:57,0.99,1.02,30,Bucket,Green,Opaque,Yes,Yes,7V/5/008,Yes,Yes,10,Dip Glass,Bucket,Green,Opaque,Yes,Yes,No,10-Sep-16,10:19,0.77,1,30,17:22:00,17.36666667,0.22,0.02
+42,09-Sep-16,68,17:00,1.02,1.1,30,Jerry can,White,Translucent,No,Yes,7V/7/005,Yes,Yes,99,Pour out,Jerry Can,White,Translucent,No,Yes,No,10-Sep-16,10:05,0.97,1.09,30,17:05:00,17.08333333,0.05,0.01
+43,10-Sep-26,121,10:42,0.84,0.89,30,Jerry can,White,Translucent,Yes,Yes,ET/7A/004,No,No,60,Pour out,Jerry Can,White,Translucent,No,Yes,No,11-Sep-16,10:41,0.35,0.45,30,23:59:00,23.98333333,0.49,0.44
+44,10-Sep-16,121,10:58,0.96,0.99,30,Jerry can,White,Translucent,No,Yes,7Q/9/003,Yes,Yes,20,Pour out,Jerry Can,White,Translucent,No,Yes,No,11-Sep-16,10:25,0.76,0.91,30,23:27:00,23.45,0.2,0.08
+45,10-Sep-16,121,11:06,0.94,0.97,30,Bucket,Red,Opaque,Yes,Yes,ET/7A/001,Yes,Yes,70,Dip Glass,Bucket,Red,Opaque,Yes,Yes,No,11-Sep-16,10:32,0.73,0.74,30,23:26:00,23.43333333,0.21,0.23
+46,10-Sep-16,118,11:18,0.69,0.74,30,Jerry can,White,Translucent,Yes,No,7R/1/002,Yes,Yes,40,Pour out,Jerry Can,White,Translucent,Yes,No,No,11-Sep-16,10:12,0.82,0.85,30,22:54:00,22.9,-0.13,-0.11
+47,10-Sep-16,118,11:20,0.77,0.78,30,Bucket,Green,Opaque,Yes,No,7W/7/003,Yes,Yes,90,Dip Glass,Bucket,Green,Opaque,Yes,No,No,11-Sep-16,10:01,0.44,0.47,30,22:41:00,22.68333333,0.33,0.31
+48,10-Sep-16,118,11:25,0.82,0.85,30,Jerry can,White,Translucent,Yes,Yes,7W/8/004,Yes,Yes,10,Pour out,Jerry Can,White,Translucent,Yes,No,No,11-Sep-16,9:53,0.64,0.65,30,22:28:00,22.46666667,0.18,0.2
+49,10-Sep-16,116,15:50,0.99,1.01,30,Jerry can,White,Translucent,Yes,Yes,7W/5/006,Yes,Yes,15,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,11-Sep-16,9:30,0.81,1.18,30,17:40:00,17.66666667,0.18,-0.17
+50,10-Sep-16,116,16:01,0.99,1.23,30,Bucket,Green,Opaque,Yes,Yes,7W/5/007,Yes,Yes,40,Dip Glass,Bucket,Green,Opaque,Yes,Yes,No,11-Sep-16,9:25,0.73,0.74,30,17:24:00,17.4,0.26,0.49
+51,10-Sep-16,116,16:09,0.98,1.65,30,Jerry can,White,Translucent,No,No,7F/6/001,No,No,95,Pour out,Jerry Can,White,Translucent,Yes,Yes,Yes,11-Sep-16,9:10,0.95,0.9,30,17:01:00,17.01666667,0.03,0.75
+52,13-Sep-16,5,11:26,0.65,0.66,28,Jerry can,Yello,Opaque,No,No,12BTP/6/004,Yes,Yes,15,Pour out,Jerry Can,Yellow,Opaque,No,No,No,14-Sep-16,9:03,0.37,0.76,31,21:37:00,21.61666667,0.28,-0.1
+53,13-Sep-16,5,11:20,0.65,0.66,28,Jerry can,Yello,Translucent,No,No,12ETP/1//004,Yes,Yes,15,Pour out,Jerry Can,Yellow,Translucent,No,No,No,14-Sep-16,8:42,0.04,0.11,31,21:22:00,21.36666667,0.61,0.55
+54,13-Sep-16,5,11:38,0.66,0.73,28,Bucket,Blue,Opaque,No,No,12ETP/8/005,Yes,Yes,90,Dip Glass,Bucket,Blue,Opaque,No,No,No,14-Sep-16,8:57,0.03,0.14,31,21:19:00,21.31666667,0.63,0.59
+55,13-Sep-16,6,9:14,0.75,0.73,28,Jerry can,White,Translucent,No,Yes,13ETP/8/008,Yes,Yes,95,Pour out,Jerry Can,White,Translucent,No,Yes,No,14-Sep-16,9:19,0.63,0.69,31,0:05:00,24.08333333,0.12,0.04
+56,13-Sep-16,6,9:00,0.71,0.76,28,Jerry can,White,Translucent,Yes,No,6ETP/6/005,Yes,Yes,80,Pour out,Jerry Can,White,Translucent,Yes,No,No,14-Sep-16,9:29,0.56,0.66,31,0:29:00,24.48333333,0.15,0.1
+57,13-Sep-16,6,9:26,0.72,0.72,28,Bucket,Red,Translucent,No,No,13ETP/4/005,Yes,Yes,30,Dip Glass,Bucket,Red,Translucent,No,No,No,14-Sep-16,9:41,0.01,0.04,31,0:15:00,24.25,0.71,0.68
+58,13-Sep-16,7,10:06,0.72,0.74,28,Bucket,Blue,Opaque,Yes,Yes,ET/14ETP/&/004,No,No,98,Pour out,Jerry Can,White,Translucent,No,Yes,No,14-Sep-16,9:58,0.21,0.34,31,23:52:00,23.86666667,0.51,0.4
+59,13-Sep-16,7,9:49,0.73,0.74,28,Jerry can,White,Translucent,Yes,Yes,16ETP/5/008,Yes,Yes,20,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,14-Sep-16,10:07,0.61,0.7,31,0:18:00,24.3,0.12,0.04
+60,13-Sep-16,7,10:16,0.66,0.8,28,Jerry can,White,Translucent,Yes,No,20ETP/3/002,Yes,Yes,90,Pour out,Jerry Can,White,Translucent,Yes,Yes,No,14-Sep-16,10:18,0.57,0.97,31,0:02:00,24.03333333,0.09,-0.17
+61,13-Sep-16,8,10:32,0.75,0.79,28,Jerry can,Yello,Opaque,Yes,Yes,19ETP/1/002,,,100,,,,,,,,,,,,31,,,0.75,0.79
+62,13-Sep-16,8,10:47,0.67,0.72,28,Bucket,Green,Opaque,No,Yes,19ETP/2/004,No,No,100,Dip Glass,Bucket,Blue,Opaque,No,No,No,14-Sep-16,10:33,0.01,0.04,31,23:46:00,23.76666667,0.66,0.68
+63,13-Sep-16,8,10:51,0.75,0.78,28,Jerry can,White,Translucent,Yes,Yes,ET/17/ETP/1/007,Yes,Yes,20,Pour out,Jerry Can,White,Translucent,Yes,No,No,14-Sep-16,10:46,0.48,0.49,31,23:55:00,23.91666667,0.27,0.29
+64,13-Sep-16,12A,15:41,0.81,0.82,28,Jerry can,White,Translucent,Yes,No,18ETP/1/003,Yes,Yes,30,Pour out,Jerry Can,White,Translucent,Yes,No,No,14-Sep-16,11:00,0.62,0.68,31,19:19:00,19.31666667,0.19,0.14
+65,13-Sep-16,12A,15:54,0.77,0.79,28,Jerry can,Yello,Opaque,No,Yes,18ETP/6/007,Yes,Yes,98,Pour out,Jerry Can,Yellow,Opaque,No,No,No,14-Sep-16,11:14,0.77,0.82,31,19:20:00,19.33333333,0,-0.03
+66,13-Sep-16,12A,16:05,0.76,0.81,28,Bucket,Orange,Opaque,No,No,21ETP/6/005,Yes,Yes,10,Dip Glass,Bucket,Orange,Opaque,No,No,No,14-Sep-16,11:23,0.01,0.06,31,19:18:00,19.3,0.75,0.75
+67,13-Sep-16,12B,16:21,0.7,0.79,28,Jerry can,Yello,Opaque,Yes,Yes,23ETP/5/004,Yes,Yes,2,Pour out,Jerry Can,Yellow,Opaque,Yes,Yes,No,14-Sep-16,15:45,0.18,0.24,31,23:24:00,23.4,0.52,0.55
+68,13-Sep-16,12B,16:31,0.71,0.82,28,Bucket,White,Opaque,No,No,24ETP/1/006,No,Yes,85,Dip Glass,Bucket,Green,Opaque,No,No,No,14-Sep-06,15:52,0.32,0.41,31,23:21:00,23.35,0.39,0.41
+69,13-Sep-16,12B,16:38,0.7,0.73,28,Bucket,Red,Opaque,Yes,Yes,24ETP/8/007,Yes,Yes,20,Dip Glass,Bucket,Red,Opaque,No,Yes,No,14-Sep-16,16:01,0.2,0.71,31,23:23:00,23.38333333,0.5,0.02
+70,14-Sep-16,9B,16:32,0.85,0.156,31,Jerry can,White,Translucent,No,No,29ETP/7/004,Yes,Yes,70,Pour out,Jerry Can,White,Translucent,No,No,No,15-Sep-16,9:00,0.7,0.65,30,16:28:00,16.46666667,0.15,-0.494
+71,14-Sep-16,9B,16:28,0.61,0.64,31,Bucket,White,Opaque,Yes,Yes,28ETP/2/001,Yes,Yes,10,Dip Glass,Bucket,White,Opaque,Yes,No,No,15-Sep-16,8:52,0.07,0.12,30,16:24:00,16.4,0.54,0.52
+72,14-Sep-16,9B,16:40,0.71,0.72,31,Jerry can,White,Translucent,Yes,Yes,27ETP/4/003,Yes,Yes,80,Pour out,Jerry Can,White,Translucent,No,Yes,No,15-Sep-16,9:12,0.59,1.3,30,16:32:00,16.53333333,0.12,-0.58
+73,14-Sep-16,46,17:01,0.73,0.73,31,Jerry can,White,Translucent,No,No,28ETP/3/005,Yes,Yes,15,Pour out,Jerry Can,White,Translucent,No,No,No,15-Sep-16,8:47,0.37,0.41,30,15:46:00,15.76666667,0.36,0.32
+,,,,,,,,,,,,,,,,,,,,,,,,,0.645544554,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,0.696,,,,0,,
