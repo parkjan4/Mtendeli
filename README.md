@@ -41,7 +41,7 @@ The project has the following folder (and file) structure:
 
 ## How to execute the files.
 	
-Download the data and all functions in the same directory. Run `Main.m` to see results.
+Download all functions in the same directory. Save the data in separate directory named `data/`. Run `Main.m` to see results.
 
 ## Authors
 
