@@ -22,29 +22,30 @@ The project has the following folder (and file) structure:
 * `data/`. Directory containing original dataset provided by Médecins Sans Frontières.
 
 * `matlab/`. Folder containing the actual code files for the project:
-    * `gephi/` Folder containing gephi files for visualization and exploration of the network.
-    * `images/` Folder containing different images that are generated when running the different notebooks.
-    * `fragmentation measures.py` Contains functions to compute fragmentation measures on the provided network.
-    * `optimization_algorithms.py` Contains both optimization algorithms for fragmentation and information flow as well as the necessary functions to compute the respectives objective values. 
-    * `data_exploration_functions.py` Contains several functions used for the import and parse of the data, creation of the network structure or identification of largest component among others.
-    * `fragmentation.ipynb` Notebook containing initial data exploration as well as optimization task and results on the fragmentation problem. The provided notebook is already executed and shows the desired results.
-    * `information_flow.ipynb` Notebook containing the data exploration and optimization task and results on the information diffusion problem. The provided notebook is already executed and shows the desired results. A new execution can take around 15 to 20 minutes. 
-    * `adjacency.npy` Numpy file containing the structure of the adjacency matrix of the original network. Can be used to avoid creating it from scratch if a new execution of any of the two notebooks wants to be done. 
+    * `CleanData.m` Cleans data
+    * `Clustering.m` Performs hierarchical clustering
+    * `CustomEnsembleMethod.m` Creates an ensemble model of a number of algorithms
+    * `DimRed.m` Dimensionality reduction by principal component analysis 
+    * `EDA.m` Exploratory data analysis
+    * `FeatSelect.m` Feature selection by multiple approaches
+    * `GBTrees.m` Gradient-boosted trees algorithm
+    * `KNN.m` K-nearest neighbors algorithm
+    * `LinearRegression.m` Linear regression algorithm
+    * `Main.m` Main function which calls all other functions
+    * `NN.m` Neural networks algorithm
+    * `RandomForest.m` Random forest algorithm
+    * `SVMR.m` Support vector regression algorithm
 
+* `Presentation.pdf`
 * `Report.pdf`
-* `requirements.txt`
-
 
 ## How to execute the files.
 	
-Only fragmentation and information flow Notebooks are intended to be executed. All other files do not provide any directly readable result. The project has been developed so that fragmentation notebook is read first as it contains an initial exploration of the data. Nevertheless, information_flow notebook can be read and understood without need of previous consultation to the fragmentation notebook, taking into account the reader is aware of the purpose of the project.
+Download the data and all functions in the same directory. Run `Main.m` to see results.
 
 ## Authors
 
-* **Abrate, Marco Pietro** - 
-* **Bolón Brun, Natalie** - 
-* **Kakavandy, Shahow** - 
-* **Park, Jangwon** - 
+* **Jangwon Park**
 
 ## License
 
