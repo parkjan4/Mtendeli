@@ -1,7 +1,7 @@
 # Water Quality Analysis and Prediction at Mtendeli Refugee Camp in Tanzania
 Bachelor Thesis, April 2018, University of Toronto
 
-This is the directory of my project as the final milestone for completing my bachelor's degree in Engineering Science, University of Toronto, 2018. 
+This is the directory of my bachelor thesis, the final milestone for completing my bachelor's degree in Engineering Science, University of Toronto, 2018. 
 
 Today, refugees at the Mtendeli camp, Tanzania, fetch water manually from a tap stand to their camps to use for the next day or two. However, it is at times extremely challenging to assess whether the water is still safe to consume due to varying climate conditions every day and many opportunities of contamination in an often-unsanitary refugee camp environment. Well-known first- or second-order decay models have failed in producing consistently accurate predictions. This project first conducts an in-depth data analysis and takes a machine learning approach to predict future water quality to address these key issues.
 
@@ -19,7 +19,7 @@ The required environment for running the code and reproducing the results is a c
 
 The project has the following folder (and file) structure:
 
-* `data/`. Directory containing original dataset from LINQS. [online] Linqs.soe.ucsc.edu. Available at: https://linqs.soe.ucsc.edu/node/236 [Accessed 11 Jan. 2019].
+* `data/`. Directory containing original dataset provided by Médecins Sans Frontières.
 
 * `matlab/`. Folder containing the actual code files for the project:
     * `gephi/` Folder containing gephi files for visualization and exploration of the network.
