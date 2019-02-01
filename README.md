@@ -17,7 +17,7 @@ The required environment for running the code and reproducing the results is a c
 
 ## Project Structure
 
-The project has the following folder (and file) structure:
+The `project/` directory has the following folder (and file) structure:
 
 * `data/`. Directory containing original dataset provided by Médecins Sans Frontières.
 
